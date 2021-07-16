@@ -6,7 +6,7 @@ Welcome to exchange! 😄
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alan1034)](https://github.com/anuraghazra/github-readme-stats)
 
-📫:419287484@qq.com
+📫Email:419287484@qq.com
 
 Blog:https://segmentfault.com/u/chendeli
 
