@@ -9,6 +9,8 @@ Welcome to exchange! 😄
 📫:419287484@qq.com
 
 Blog:https://segmentfault.com/u/chendeli
+
+Npm:https://www.npmjs.com/~alan1034
 <!--
 **Alan1034/Alan1034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
