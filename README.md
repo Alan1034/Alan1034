@@ -4,8 +4,6 @@ Interest in JavaScript & C++ & database related
 
 Welcome to exchange! 😄
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alan1034&include_all_commits=true&count_private=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-
 📫Email:419287484@qq.com
 
 Blog:https://segmentfault.com/u/chendeli
