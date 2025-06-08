@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Interest in JavaScript & C++ & database related
+Interest in JavaScript & Java & C & database related
 
 Welcome to exchange! 😄
 
